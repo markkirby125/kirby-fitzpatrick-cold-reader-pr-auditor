@@ -2,13 +2,31 @@
 
 Audit technical documentation from the perspective of an un-briefed external engineer.
 
+[![Kirby Fitzpatrick Collection](https://img.shields.io/badge/Kirby_Fitzpatrick-Writers_Collection-blue?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+[![Kirby Skills Collection](https://img.shields.io/badge/Kirby_Skills-Collection-purple?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-skills-collection)
+
 ---
+
+## Repo Details
+
+* **Repository**: [https://github.com/markkirby125/kirby-fitzpatrick-cold-reader-pr-auditor](https://github.com/markkirby125/kirby-fitzpatrick-cold-reader-pr-auditor)
+* **Parent Collection**: [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+* **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
+* **Category**: Macro Architecture
+* **Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "The EXACT System to Transform Messy Drafts into Clear Writing"
+* **Direct Video URL**: https://www.youtube.com/watch?v=6HPNb0tiDNg
+
+---
+
 ## Attribution & Provenance
 
 * **Original Framework Author**: William Fitzpatrick
 * **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
 * **Source Lecture**: "The EXACT System to Transform Messy Drafts into Clear Writing"
 * **Direct Video URL**: https://www.youtube.com/watch?v=6HPNb0tiDNg
+
 ---
 
 ## Overview
