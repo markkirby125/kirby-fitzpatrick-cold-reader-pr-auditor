@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-cold-reader-pr-auditor
-description: "Audit technical documentation from the perspective of an un-briefed external engineer." Use this when working on fitzpatrick cold reader pr auditor.
+description: "Audit technical documentation from the perspective of an un-briefed external engineer. Use this when working on fitzpatrick cold reader pr auditor."
 category: "Writing & Communication"
 triggers:
   - "cold reader auditor"
